@@ -1,0 +1,6 @@
+export {default as Navbar} from './Navbar'
+export {default as Cryptocurrency} from './Cryptocurrency'
+export {default as Cryptodetail} from './Cryptodetail'
+export {default as Exchanges} from './Exchanges'
+export {default as News} from './News'
+export {default as Homepage} from './Homepage'
